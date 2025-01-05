@@ -27,5 +27,3 @@ def plusOne(digits):
 
     return digits               # returns the list
 
-num = [9,8,9]
-print(plusOne(num))
